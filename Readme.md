@@ -25,6 +25,7 @@ I wrote it so, that it accepts input from stdin, so if you'd like to try to run 
 ```sh
 cat file | csirke.out /path/to/cat.chn
 ```
+It supports [shebangs](https://en.wikipedia.org/wiki/Shebang_(Unix))! (See the cat example)
 
 ## But why would you spend time on something like this?
 
