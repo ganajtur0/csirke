@@ -21,7 +21,7 @@ the above code should result in **csirke.out** appearing in the directory.
 ```sh
 csirke.out /path/to/code
 ```
-I wrote it so, that it accepts input from stdin, so if you'd like to try to run [the cat example](insert_link), in order to see something happen, make sure to pipe something into it like so:
+I wrote it so, that it accepts input from stdin, so if you'd like to try to run [the cat example](https://github.com/ganajtur0/csirke/blob/master/chicken_code/cat.chn), in order to see something happen, make sure to pipe something into it like so:
 ```sh
 cat file | csirke.out /path/to/cat.chn
 ```
